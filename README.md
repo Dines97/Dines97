@@ -1,5 +1,4 @@
 <p align="center">
-# Hi!
-
-![200.gif](200.gif)
+    <h1>Hi!</h1>
+    <img src="200.gif">
 </p>
